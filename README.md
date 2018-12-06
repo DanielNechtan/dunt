@@ -11,8 +11,8 @@ Motivated by increased modern hardware support in the BSDs (particularly OpenBSD
 Proposed features:
 
 * Minimalist window manager (can we use and extend cwm?)
-* Frontend for manipulating dunt and system settings
-* Wrapper/frontend for some userland stuff
+* Frontend X client for manipulating dunt and system settings
+* Wrapper/frontend client for some userland stuff
 * On-screen keyboard - this may be a big task, many existing implementations suck - needs researched.
 * Web browser
 
